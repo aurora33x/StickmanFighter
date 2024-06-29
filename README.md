@@ -3,7 +3,7 @@
 This is a stickman fighter game packaged as a .exe file.
 
 ## Download
-You can download the game and its dependencies from the [latest release](https://github.com/yourusername/stickman-fighter/releases/latest).
+You can download the game and its dependencies from the [latest release](https://github.com/aurora33x/StickmanFighter/releases/tag/StickmanFighter).
 
 ## How to Play
 1. Download the .zip file from the release page.
